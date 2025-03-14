@@ -4,7 +4,7 @@ Third-year undergraduate student at University of Electronic Science and Technol
 
 Interested in Cybersecurity, including Web Research, Red Team Penetration Testing, Cloud Security, Forensics, etc.
 
-CTFer(maybe),K-pop Fan(✔)
+CTFer(maybe), K-pop Fan(✔)
 
 I’m looking for MSc or PhD programs in 2026, or possibly a job.
 
