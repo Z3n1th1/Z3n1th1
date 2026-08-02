@@ -1,12 +1,14 @@
 ## 👋 About Me
 
-Third-year undergraduate student at University of Electronic Science and Technology of China, Zhongshan Institute
+Incoming MSc student at Hong Kong Baptist University.
 
-Interested in Cybersecurity, including Web Research, Red Team Penetration Testing, Cloud Security, Forensics, etc.
+I received my bachelor's degree from the University of Electronic Science and Technology of China, Zhongshan Institute
+
+My interests include Web Security, Cloud Security, AI Security.
 
 CTFer(maybe), K-pop Fan(✔)
 
-I’m looking for MSc or PhD programs in 2026, or possibly a job.
+I’m looking for RA or PhD programs in 2027, or possibly a job.
 
 Blog : https://z3n1th1.com/
 
