@@ -6,7 +6,7 @@ I received my bachelor's degree from the University of Electronic Science and Te
 
 My interests include Web Security, Cloud Security, AI Security.
 
-I’m looking for RA or PhD programs in 2027/2028, or possibly a job.
+I’m looking for RA or PhD programs in 2028, or possibly a job.
 
 Blog : https://z3n1th1.com/
 
