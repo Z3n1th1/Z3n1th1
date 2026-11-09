@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Incoming MSc student at Nanyang Technological University.
+MSc student at Nanyang Technological University.
 
 I received my bachelor's degree from the University of Electronic Science and Technology of China, Zhongshan Institute
 
